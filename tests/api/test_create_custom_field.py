@@ -1,7 +1,7 @@
 import os
 import json
 from pages.CustomFieldAPI import CustomFieldAPI
-from pages.ResponseValidator import ResponseValidator
+from utils.ResponseValidator import ResponseValidator
 
 def test_create_custom_fields():
     api = CustomFieldAPI()

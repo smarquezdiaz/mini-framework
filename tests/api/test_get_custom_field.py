@@ -1,5 +1,5 @@
 from pages.CustomFieldAPI import CustomFieldAPI
-from pages.ResponseValidator import ResponseValidator
+from utils.ResponseValidator import ResponseValidator
 
 api = CustomFieldAPI()
 validator = ResponseValidator()
