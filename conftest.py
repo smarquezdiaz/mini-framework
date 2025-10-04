@@ -5,7 +5,7 @@ import json
 import os
 import tempfile
 from playwright.sync_api import sync_playwright
-#from utils.config import HEADLESS
+from utils.config import HEADLESS
 
 
 @pytest.fixture(scope='session')

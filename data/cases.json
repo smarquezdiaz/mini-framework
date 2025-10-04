@@ -1,0 +1,5 @@
+[
+  { "title": "Login básico con credenciales válidas" },
+  { "title": "Crear caso con campos mínimos" },
+  { "title": "Crear caso con descripción larga" }
+]
