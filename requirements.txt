@@ -3,4 +3,5 @@ playwright
 jsonschema
 python-dotenv
 allure-pytest
-requests           
+requests 
+pytest          
