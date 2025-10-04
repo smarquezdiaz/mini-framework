@@ -29,6 +29,10 @@ jobs:
           pip install -r requirements.txt
           python -m playwright install --with-deps
 
-      - name: Run tests
+      - name: Ejecutar test de UI
         run: |
-          pytest --alluredir=allure-results
+          pytest tests/ui
+
+      - name: Ejecutar test de API
+        run: |
+          pytest tests/api
