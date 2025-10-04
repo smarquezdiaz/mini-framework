@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Automation Test Project",
+    "code": "ATP"
+  },
+  {
+    "name": "QA Testing Suite",
+    "code": "QTS"
+  },
+  {
+    "name": "E2E Integration Tests",
+    "code": "E2E"
+  }
+]
