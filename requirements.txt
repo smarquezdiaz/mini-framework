@@ -2,3 +2,4 @@ pytest
 playwright
 jsonschema
 python-dotenv
+allure-pytest
