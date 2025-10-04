@@ -1,0 +1,5 @@
+[
+  { "title": "Campo_Automation", "entity": 1, "type": 1 },
+  { "title": "Campo_UI", "entity": 1, "type": 2 },
+  { "title": "Campo_API", "entity": 2, "type": 1 }
+]
